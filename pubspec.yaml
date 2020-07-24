@@ -16,7 +16,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-  - Images/profile.jpeg
+    - images/profile.jpeg
   fonts:
   - family: Lobster
     fonts:
